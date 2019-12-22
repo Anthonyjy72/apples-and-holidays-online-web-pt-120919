@@ -12,7 +12,6 @@ def add_supply_to_winter_holidays(holiday_hash, item)
   end
 end
 
-
 add_supply_to_winter_holidays(holiday_supplies, "Baloons")
 
 
